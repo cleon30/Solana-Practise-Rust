@@ -1,0 +1,8 @@
+/Users/cleon/exercism/solana-course/Solana-Practise-Rust/examples_baremetal/target/debug/deps/solana_config_program-d9e712d8ce0bb6f1.rmeta: /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/lib.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_instruction.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_processor.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/date_instruction.rs
+
+/Users/cleon/exercism/solana-course/Solana-Practise-Rust/examples_baremetal/target/debug/deps/solana_config_program-d9e712d8ce0bb6f1.d: /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/lib.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_instruction.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_processor.rs /Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/date_instruction.rs
+
+/Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/lib.rs:
+/Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_instruction.rs:
+/Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/config_processor.rs:
+/Users/cleon/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.9/src/date_instruction.rs:
